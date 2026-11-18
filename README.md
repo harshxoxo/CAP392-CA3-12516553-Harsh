@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0014-longest-common-prefix) |
 ## Design
 |  |
 | ------- |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/1603-design-parking-system) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
