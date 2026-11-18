@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0202-happy-number) |
 ## String
 |  |
@@ -67,11 +68,13 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/1603-design-parking-system) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -89,4 +92,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
