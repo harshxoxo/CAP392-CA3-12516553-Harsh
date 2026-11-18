@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0258-add-digits) |
