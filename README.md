@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0509-fibonacci-number) |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
