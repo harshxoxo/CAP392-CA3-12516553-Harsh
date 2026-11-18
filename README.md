@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0509-fibonacci-number) |
@@ -32,12 +33,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0005-longest-palindromic-substring) |
+| [0233-number-of-digit-one](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0509-fibonacci-number) |
 ## Memoization
