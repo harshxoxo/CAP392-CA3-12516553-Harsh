@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0258-add-digits) |
@@ -34,6 +35,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0509-fibonacci-number) |
 ## Memoization
