@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0509-fibonacci-number) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -64,4 +66,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
