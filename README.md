@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0258-add-digits) |
+| [1603-design-parking-system](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0013-roman-to-integer) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
