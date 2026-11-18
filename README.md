@@ -29,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -47,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0014-longest-common-prefix) |
@@ -69,9 +71,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0202-happy-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
