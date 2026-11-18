@@ -6,6 +6,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -14,4 +15,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harshxoxo/CAP392-CA3-12516553-Harsh/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
